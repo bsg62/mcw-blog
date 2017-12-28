@@ -1,0 +1,12 @@
+name = "mcw"
+license = "MIT"
+licenselink = "https://github.com/davidhenning/mcw-blog/blob/master/LICENSE.md"
+description = ""
+homepage = "https://github.com/davidhenning/mcw-blog/"
+tags = ["mcw"]
+features = ["", ""]
+min_version = 0.14
+
+[author]
+  name = "David Henning"
+  homepage = "https://webcodr.de"

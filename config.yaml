@@ -1,0 +1,10 @@
+baseurl: "https://madcatswelt.org/"
+languageCode: "de-de"
+title: "madcats[welt]"
+metaDataFormat: "yaml"
+theme: "mcw"
+permalinks:
+  post: /:year/:month/:title/
+canonifyURLs: true
+enableRobotsTXT: true
+googleAnalytics: "UA-1711787-1"
