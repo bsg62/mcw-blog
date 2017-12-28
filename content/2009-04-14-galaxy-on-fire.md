@@ -10,7 +10,7 @@ dsq_thread_id:
 ---
 ![iPhone App Tip][1]
 
-<img style="float: left; margin-right: 6px;" src="https://www.madcatswelt.org/wp-content/uploads/galaxyonfire.jpg" alt="Galaxy on Fire" />Letzte Woche sah ich durch Zufall Galaxy on Fire im App Store. Die Beschreibung las sich wie Freelancer im Westentaschen-Format und genau das ist es auch. Das Spiel selbst ist schon länger auf Mobiltelefonen erfolgreich &#8211; nun auch auf dem iPhone/iPod touch.
+<img style="float: left; margin-right: 6px;" src="https://www.madcatswelt.org/images/galaxyonfire.jpg" alt="Galaxy on Fire" />Letzte Woche sah ich durch Zufall Galaxy on Fire im App Store. Die Beschreibung las sich wie Freelancer im Westentaschen-Format und genau das ist es auch. Das Spiel selbst ist schon länger auf Mobiltelefonen erfolgreich &#8211; nun auch auf dem iPhone/iPod touch.
 
 Man spielt Keith Maxwell, einen hochdekorierten Kampfpiloten, der aus dem Militär ehrenhaft entlassen wurde. Als Dankeschön für seine Dienste bekam er am Ende seiner Dienstzeit einen Raumjäger. In den ersten Missionen wird man noch an die Hand genommen und kann sich seine Auftraggeber nicht aussuchen. In erster Linie eskortiert man Frachter oder jagt die fiesen Vossk durchs All. Wie in Freelancer sammelt man dabei auch Trümmer auf, die man später auf den Raumstationen verkaufen kann.
 
@@ -30,5 +30,5 @@ Wer Freelancer oder auch die X-Serie mag und ein iPhone bzw. einen iPod touch be
 
 [Zu Galaxy on Fire im App Store][2]
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/iphone_app_tip.png "iPhone App Tip"
+ [1]: https://www.madcatswelt.org/images/iphone_app_tip.png "iPhone App Tip"
  [2]: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=308333717&mt=8

@@ -14,4 +14,4 @@ Mein Rucksack hat zwar ein gepolstertes Notebook-Fach, aber als Schutz für ein 
 
 Wie von Incase gewohnt, wirkt die Hülle hochwertig sowie sehr gut verarbeitet &#8211; und sie passt auch optisch perfekt zu den neuen MacBooks. Ich kann sie nur empfehlen, auch wenn einige vielleicht vom Preis abgeschreckt werden.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/incase_sleeve.jpg
+ [1]: https://www.madcatswelt.org/images/incase_sleeve.jpg

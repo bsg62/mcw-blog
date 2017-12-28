@@ -9,7 +9,7 @@ dsq_thread_id:
 
 ---
 <p style="text-align: center;">
-  <img src="https://www.madcatswelt.org/wp-content/uploads/ssf2.jpg" alt="Super Street Fighter 2" />
+  <img src="https://www.madcatswelt.org/images/ssf2.jpg" alt="Super Street Fighter 2" />
 </p>
 
 Eigentlich wollte ich Mittwoch nur die Collectors Edition von World of Conflict vorbestellen, als ich im [Heimspiel][1] das Modul sah. Glücklicher Zufall, da ich schon lange ein Street Fighter 2 für das Super Nintendo gesucht hatte und Online-Auktionen bei so etwas grundsätzlich misstraue.

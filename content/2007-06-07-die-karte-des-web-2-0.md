@@ -7,7 +7,7 @@ url: /2007/06/die-karte-des-web-2-0.html
 
 ---
 <p style="text-align: center;">
-  <img src="https://www.madcatswelt.org/wp-content/uploads/online_communities.png" alt="Map" />
+  <img src="https://www.madcatswelt.org/images/online_communities.png" alt="Map" />
 </p>
 
 Eine herrliche Idee. Man beachte besonders »Google&#8217;s Volcano Fortess« (südlich der »IRC Isles«) und die »Gays of Web 2.0« bei Devian Art.

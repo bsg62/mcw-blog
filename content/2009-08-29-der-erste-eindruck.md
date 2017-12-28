@@ -40,4 +40,4 @@ Probleme hatte ich bisher nur mit Quicksilver (Probleme mit Spaces) und Cyberduc
 
 Um es kurz zu machen: Snow Leopard ist ein gelungenens Update, das auf den ersten Blick nicht viel neues bringt. Von Dingen wie der kompletten 64 Bit-Unterstützung und Grand Central Dispatch profitieren momentan nur Apple-eigene Apps, aber sobald auch die Entwickler-Gemeinde diese Features nutzen wird, werden wir alle deutliche Verbesserungen durch weniger RAM-Belastung bzw. weniger Threads und verbesserter Multi-Core-Unterstützung erleben. In dieser Hinsicht ist Snow Leopard vielleicht eine der wichtigsten OS X-Entwicklungen für die Zukunft, auch wenn das für den normalen Nutzer nicht sofort ersichtlich sein mag.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/snowleopard.png "Mac OS X Snow Leopard"
+ [1]: https://www.madcatswelt.org/images/snowleopard.png "Mac OS X Snow Leopard"

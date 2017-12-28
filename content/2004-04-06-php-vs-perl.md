@@ -14,4 +14,4 @@ Aber im Ernst: nichts gegen Perl, ist eine feine Sache. Als Scriptsprache für d
 
 P.S.: Diese Woche gibts nur kurze Einträge :P
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/fuck_mod_perl.jpg
+ [1]: https://www.madcatswelt.org/images/fuck_mod_perl.jpg

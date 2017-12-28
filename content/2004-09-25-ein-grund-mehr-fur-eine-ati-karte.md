@@ -12,4 +12,4 @@ dsq_thread_id:
 
 Diese nette Meldung schlug mit gerade entgegen, als ich Demo von BridgeIt starten wollte. Danke, nVidia. Jetzt weiß ich endgültig, warum ich mich für eine ATI-Karte entschieden habe.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/nvidia.png
+ [1]: https://www.madcatswelt.org/images/nvidia.png

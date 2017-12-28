@@ -8,7 +8,7 @@ dsq_thread_id:
   - 467746950
 
 ---
-[<img src="https://www.madcatswelt.org/wp-content/uploads/tenid_small.jpg" style="border: none;" alt="tenid_small.jpg" />][1]
+[<img src="https://www.madcatswelt.org/images/tenid_small.jpg" style="border: none;" alt="tenid_small.jpg" />][1]
 
 Da geht er hin, mein Level 14 Zwergen-Jäger und verschwindet bis zur europäischen Open Beta von World of WarCraft wieder. Schade, auch wenn ich nur sechs Tage mit ihm gespielt habe; es war eine schöne Zeit.
   
@@ -18,4 +18,4 @@ Es gibt noch viel mehr Dinge, die World of WarCraft deutlich von der Konkurrenz 
 
 Ich freue mich jedenfalls sehr auf die nächste Open Beta und natürlich den Release der europäischen Version &#8211; vielleicht noch Ende diesen Jahres, was aber eher frommer Wunschtraum ist.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/tenid_big.jpg
+ [1]: https://www.madcatswelt.org/images/tenid_big.jpg

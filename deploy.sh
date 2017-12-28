@@ -2,7 +2,7 @@ echo '[hugo deployment] start deployment'
 echo '[hugo deployment] Run hugo'
 hugo > /dev/null
 echo '[hugo deployment] clone github.io page repo'
-git clone git@github.com:WebCodr/WebCodr.github.io.git deployment --quiet > /dev/null
+git clone git@github.com:davidhenning/mcw-page.git deployment --quiet > /dev/null
 echo '[hugo deployment] Copy new stuff'
 cp -rf public/* deployment/ 
 cd deployment

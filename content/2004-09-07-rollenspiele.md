@@ -12,5 +12,5 @@ dsq_thread_id:
 
 Eine etwas mißglückte Anzeige für einen Ferienjob. Gefunden in der Rubrik &#8222;Hohlspiegel&#8220; in der [aktuellen Spiegel-Ausgabe][2].
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/wuff.gif
+ [1]: https://www.madcatswelt.org/images/wuff.gif
  [2]: http://www.spiegel.de/spiegel/0,1518,316694,00.html

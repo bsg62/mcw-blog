@@ -14,4 +14,4 @@ Nein, ich habe mich nicht in der Überschrift vertippt:
 
 Das stammt von der offiziellen deutschen Everquest-2-Website. Kommt davon, wenn man an der Übersetzung sparen will&#8230;
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/eq2.png
+ [1]: https://www.madcatswelt.org/images/eq2.png

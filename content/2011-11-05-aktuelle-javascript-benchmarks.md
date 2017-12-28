@@ -14,7 +14,7 @@ Wie üblich dient als Testplattform mein Privatrechner mit folgender Spezifikati
 
 Hier sind die Ergebnisse:
 
-<img class="aligncenter size-full wp-image-798" title="js_benchmarks_v4_1" src="https://www.madcatswelt.org/wp-content/uploads/js_benchmarks_v4_1.png" alt="" srcset="https://www.madcatswelt.org/wp-content/uploads/js_benchmarks_v4_1.png 548w, https://www.madcatswelt.org/wp-content/uploads/js_benchmarks_v4_1-227x300.png 227w" sizes="(max-width: 548px) 100vw, 548px" />
+<img class="aligncenter size-full wp-image-798" title="js_benchmarks_v4_1" src="https://www.madcatswelt.org/images/js_benchmarks_v4_1.png" alt="" srcset="https://www.madcatswelt.org/images/js_benchmarks_v4_1.png 548w, https://www.madcatswelt.org/images/js_benchmarks_v4_1-227x300.png 227w" sizes="(max-width: 548px) 100vw, 548px" />
 
 &nbsp;
 

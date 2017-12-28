@@ -33,4 +33,4 @@ Jetzt &#8211; nach gut 13 Stunden &#8211; ist der Akku noch bei 99%. Die komplet
 
 Das Problem mit Push-Diensten bezieht sich primär auf Push Notifications, nicht den Push-Mail-Service mit MobileMe oder Exchange.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/iphone_3gs.png "iPhone 3GS"
+ [1]: https://www.madcatswelt.org/images/iphone_3gs.png "iPhone 3GS"

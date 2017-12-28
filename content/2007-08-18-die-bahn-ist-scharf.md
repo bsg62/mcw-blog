@@ -7,7 +7,7 @@ url: /2007/08/die-bahn-ist-scharf.html
 
 ---
 <p style="text-align: center;">
-  <img src="https://www.madcatswelt.org/wp-content/uploads/bahnchili.jpg" alt="Bahn und Chili" />
+  <img src="https://www.madcatswelt.org/images/bahnchili.jpg" alt="Bahn und Chili" />
 </p>
 
 Lustige Idee der Südostbayernbahn. Für Bahn-Fans sind die neuen Doppelstockwagen wohl wirklich recht scharf. Normale Pendler finden sie aber sicher &#8222;nur&#8220; toll, dank sehr bequemer Sitzen, viel Beinfreiheit und Vollklimatisierung.

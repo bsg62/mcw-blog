@@ -31,5 +31,5 @@ Während bei Safari der Taktenraten- und Cache-Unterschied sich noch halbwegs re
 **Update:** Nun mit Diagrammen statt Text-Ergebnissen.
 
  [1]: http://dromaeo.com/
- [2]: https://www.madcatswelt.org/wp-content/uploads/2009-01-04_mac.png "Ergebnisse (Mac)"
- [3]: https://www.madcatswelt.org/wp-content/uploads/2009-01-04_pc.png "Ergebnisse (PC)"
+ [2]: https://www.madcatswelt.org/images/2009-01-04_mac.png "Ergebnisse (Mac)"
+ [3]: https://www.madcatswelt.org/images/2009-01-04_pc.png "Ergebnisse (PC)"

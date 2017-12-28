@@ -22,4 +22,4 @@ In den nächsten Tagen werde ich über weitere Erfahrungen mit dem MacBook Pro s
 
 P.S.: An dieser Stelle noch herzlichen Dank an die Mitarbeiter des Apple Stores in München, die im Gegensatz zu ihren Kollegen in diversen Elektronikmärkten, wirklich Ahnung haben und jedem Kunden gegenüber aufgeschlossen sind. Davon können sich viele Einzelhändler eine gehörige Scheibe abschneiden.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/mbp.jpg
+ [1]: https://www.madcatswelt.org/images/mbp.jpg

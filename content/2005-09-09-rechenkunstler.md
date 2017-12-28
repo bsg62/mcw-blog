@@ -14,4 +14,4 @@ Hier der Beweis:
 
  ![Rechenkünstler][1]
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/sacred.png
+ [1]: https://www.madcatswelt.org/images/sacred.png

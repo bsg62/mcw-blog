@@ -14,5 +14,5 @@ Wer braucht bei diesem Modell schon Cell, nVidia RSX oder HDMI-Ausgänge? Nieman
 
 Geklaut bei [Mornography][2].
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/slaystation.jpg
+ [1]: https://www.madcatswelt.org/images/slaystation.jpg
  [2]: http://www.mornography.de

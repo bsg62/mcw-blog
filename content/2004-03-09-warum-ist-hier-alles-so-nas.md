@@ -20,5 +20,5 @@ Falls sich jeder so bescheuert anstellen würde wie diese beiden Prachtexemplare
 
 P.S.: Tschuldigung für die Wortwahl, aber der letzte Satz musste einfach raus&#8230;
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/bravo.jpg
+ [1]: https://www.madcatswelt.org/images/bravo.jpg
  [2]: javascript:alert(&apos;Duden: ficken (derb für koitieren)&apos;) "Achtung, böses Wort!"

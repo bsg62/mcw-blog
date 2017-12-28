@@ -8,8 +8,8 @@ dsq_thread_id:
   - 467747305
 
 ---
-[<img src="https://www.madcatswelt.org/wp-content/uploads/boxes_small.jpg" alt="Star Wars" style="border: none;" />][1]
+[<img src="https://www.madcatswelt.org/images/boxes_small.jpg" alt="Star Wars" style="border: none;" />][1]
 
 (Nett, das ist zugleich Weblogeintrag #100. Die Macht ist wirklich mit mir&#8230; :D)
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/boxes.jpg "Für die große Version bitte ins Bild klicken."
+ [1]: https://www.madcatswelt.org/images/boxes.jpg "Für die große Version bitte ins Bild klicken."

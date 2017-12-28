@@ -12,4 +12,4 @@ Warum denn nicht gleich? Aber nun gut, der Fehler wurde ja doch sehr schnell beh
 
 [][1]
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/safari.png
+ [1]: https://www.madcatswelt.org/images/safari.png

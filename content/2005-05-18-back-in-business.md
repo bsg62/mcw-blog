@@ -14,4 +14,4 @@ Mein Kompliment an Mythic. Dank Catacombs macht Dark Age of Camelot wieder richt
   
 Sicherlich, viele Neuerungen sind bei World of Warcraft geklaut worden, aber gut geklaut. Ein rundum gelungenes Addon, das Dark Age of Camelot wirklich wieder interessant macht und vor allem viele Steine, teilweise sogar regelrechte Felsen für erfahrene Spieler, aber größtenteils für Einsteiger, aus dem Weg räumt.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/diebiu.jpg
+ [1]: https://www.madcatswelt.org/images/diebiu.jpg

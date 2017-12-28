@@ -10,4 +10,4 @@ dsq_thread_id:
 ---
  ![opera.png][1]Immer diese Querulanten. Furchtbar. Wo wir eh schon beim Thema sind: die Mozilla Foundation startet wohl einen Krieg an zwei Fronten. Während Firefox den <a href="#" onfocus="alert('besser bekannt als: Internet Exploder und Idiot Exploiter.')">Internet Explorer</a> schon auf den Rückzug Richtung Redmond drängt, wurde das Projekt »Lightning« angekündigt. Es soll Mozilla Thunderbird und den vor kurzem aus der Taufe gehobenen Mozilla Sunbird vereinen, um Outlook entgegen zu treten. Wenn das so weitergeht, gibt&#8217;s irgendwann noch Mozilla Office.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/opera.png
+ [1]: https://www.madcatswelt.org/images/opera.png

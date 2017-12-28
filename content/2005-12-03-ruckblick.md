@@ -31,8 +31,8 @@ Eine interne Reorganisation von »miau3«, ansonsten hatte sich nichts getan. Da
 [»miau7«][5]  
 Am grundsätzlichen System hat sich im Vergleich zu »miau6« wenig getan. Es gab eine dezente Änderung der Optik, sowie die neue Seitenleisten mit Suche, Links und Feeds unter der Navigation. Dazu diverse andere Neuerungen, größtenteils technischer Natur. Sobald das Control Panel komplett fertig ist und ich ein Installations-Script geschrieben habe, wird »miau7« als Version 1.0 zum Download freigegeben.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/miau.png
- [2]: https://www.madcatswelt.org/wp-content/uploads/miau2.png
- [3]: https://www.madcatswelt.org/wp-content/uploads/miau3.png
+ [1]: https://www.madcatswelt.org/images/miau.png
+ [2]: https://www.madcatswelt.org/images/miau2.png
+ [3]: https://www.madcatswelt.org/images/miau3.png
  [4]: http://pblog.madcatswelt.org/
- [5]: https://www.madcatswelt.org/wp-content/uploads/miau7.png
+ [5]: https://www.madcatswelt.org/images/miau7.png

@@ -9,7 +9,7 @@ dsq_thread_id:
 
 ---
 <p style="text-align: center;">
-  <img src="https://www.madcatswelt.org/wp-content/uploads/ipod.jpg" alt="iPod touch" />
+  <img src="https://www.madcatswelt.org/images/ipod.jpg" alt="iPod touch" />
 </p>
 
 Und natürlich zu teuer, aber ehrlich: **SCHEISS DRAUF!**

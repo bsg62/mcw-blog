@@ -9,7 +9,7 @@ dsq_thread_id:
 
 ---
 <p style="text-align: center;">
-  <img title="Mozilla Firefox 3.0" src="https://www.madcatswelt.org/wp-content/uploads/firefox3final.png" alt="Mozilla Firefox 3.0" />
+  <img title="Mozilla Firefox 3.0" src="https://www.madcatswelt.org/images/firefox3final.png" alt="Mozilla Firefox 3.0" />
 </p>
 
 <p style="text-align: left;">

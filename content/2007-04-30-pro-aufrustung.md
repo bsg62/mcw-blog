@@ -7,7 +7,7 @@ url: /2007/04/pro-aufrustung.html
 
 ---
 <p style="text-align: center;">
-  <img src="https://www.madcatswelt.org/wp-content/uploads/IMG_0325.jpg" alt="neue Hardware" />
+  <img src="https://www.madcatswelt.org/images/IMG_0325.jpg" alt="neue Hardware" />
 </p>
 
 Mein alter Athlon XP 1.800+ geht nun endlich in Rente und wird durch einen eigentlich völlig neuen Rechner ersetzt:

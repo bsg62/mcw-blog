@@ -9,7 +9,7 @@ dsq_thread_id:
 
 ---
 <p style="text-align: center">
-  <a href="https://www.madcatswelt.org/wp-content/uploads/geeks_madcat.jpg" target="_blank"><img src="https://www.madcatswelt.org/wp-content/uploads/geeks_madcat_th.jpg" alt="innere Geeks" /></a>
+  <a href="https://www.madcatswelt.org/images/geeks_madcat.jpg" target="_blank"><img src="https://www.madcatswelt.org/images/geeks_madcat_th.jpg" alt="innere Geeks" /></a>
 </p>
 
 Diese Geeks leben in mir. Beängstigend.

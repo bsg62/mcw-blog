@@ -11,7 +11,7 @@ dsq_thread_id:
 </p> 
 
 <p style="text-align: center;">
-  <img src="https://www.madcatswelt.org/wp-content/uploads/hl2.png" alt="Half-Life 2" />
+  <img src="https://www.madcatswelt.org/images/hl2.png" alt="Half-Life 2" />
 </p>
 
 

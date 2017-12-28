@@ -8,7 +8,7 @@ dsq_thread_id:
   - 530380290
 
 ---
-<img class="alignnone" title="iPhone 4" src="https://www.madcatswelt.org/wp-content/uploads/iphone_4.png" alt="" />
+<img class="alignnone" title="iPhone 4" src="https://www.madcatswelt.org/images/iphone_4.png" alt="" />
 
 Habe ich Empfangsproblem mit einem iPhone 4? Ja, in Gegenden mit schlechter Netzabdeckung. Habe ich ein Problem damit? Nein, mein Hirn hat in dieser Beziehung keine Empfangsschwierigkeiten, die offenbar viele besitzen, wenn man sich die Nachrichten, Blog-Einträge, Twitter- und Facebook-Kommentare durchliest. Überwiegend ist das heiße Luft, denn niemand außer Apple kennt die wahren Ursachen und die Zahl der Betroffenen.
 

@@ -20,4 +20,4 @@ Ein blamables Ergebnis für Microsoft, das mit dem IE 8 auch nicht großartig be
 
 Und Microsoft? Tja, ich sehe nur zwei Möglichkeiten: den ganzen alten IE-Quellcode öffentlich verbrennen und komplett neu schreiben, oder man setzt in Zukunft auf Webkit/Squirrelfish bzw. Webkit/V8 oder Gecko/Tracemonkey.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/2009-01-09.png
+ [1]: https://www.madcatswelt.org/images/2009-01-09.png

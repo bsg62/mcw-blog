@@ -9,7 +9,7 @@ dsq_thread_id:
 
 ---
 <p style="text-align: center;">
-  <img src="https://www.madcatswelt.org/wp-content/uploads/necronlord.jpg" border="0" alt="Necron Lord" />
+  <img src="https://www.madcatswelt.org/images/necronlord.jpg" border="0" alt="Necron Lord" />
 </p>
 
 Darf ich vorstellen? Mein Necron-Lord. Er befindet sich gerade auf dem Dunklen Kreuzzug gegen alles Lebende. Warum? Weil die C&#8217;tan es so wollen, aber das ist ein anderes Thema.

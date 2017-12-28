@@ -9,7 +9,7 @@ dsq_thread_id:
 
 ---
 <p style="text-align: center">
-  <img src="https://www.madcatswelt.org/wp-content/uploads/leopard.jpg" alt="Leopard" />
+  <img src="https://www.madcatswelt.org/images/leopard.jpg" alt="Leopard" />
 </p>
 
 Zugegeben, das PowerBook ist nicht mehr sonderlich frisch, aber es läuft mit Leopard ganz gut. Nach drei Tagen will ich es wirklich nicht mehr hergeben. OS X macht einem das Leben schön einfach. Es macht einfach Spaß.

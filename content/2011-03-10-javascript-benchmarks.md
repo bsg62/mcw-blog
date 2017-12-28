@@ -14,7 +14,7 @@ Als Testplattform diente ein Intel Core i5 750 mit 8 GB RAM, einer Intel X25-M G
 
 Hier die Ergebnisse als Diagramme:
 
-<img class="alignnone size-full wp-image-715" title="benchmarks_2011-03-09" src="https://www.madcatswelt.org/wp-content/uploads/benchmarks_2011-03-09.png" alt="" srcset="https://www.madcatswelt.org/wp-content/uploads/benchmarks_2011-03-09.png 576w, https://www.madcatswelt.org/wp-content/uploads/benchmarks_2011-03-09-241x300.png 241w" sizes="(max-width: 576px) 100vw, 576px" />
+<img class="alignnone size-full wp-image-715" title="benchmarks_2011-03-09" src="https://www.madcatswelt.org/images/benchmarks_2011-03-09.png" alt="" srcset="https://www.madcatswelt.org/images/benchmarks_2011-03-09.png 576w, https://www.madcatswelt.org/images/benchmarks_2011-03-09-241x300.png 241w" sizes="(max-width: 576px) 100vw, 576px" />
 
 Aufgrund der Charakteristik und Optimierungen der einzelnen Benchmarks, gibt es keinen klaren Sieger. Am neutralsten &#8212; obwohl er dem WebKit-Projekt entstammt &#8212; erscheint mir SunSpider. Es ist dabei fast schon ironisch, dass die eigene Engine &#8222;Nitro&#8220; am schlechsten abschneidet.
 

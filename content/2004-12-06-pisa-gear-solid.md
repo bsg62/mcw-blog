@@ -20,4 +20,4 @@ Wer weiß, vielleicht spielen wir in MGS 4 dann »The Boss« in Nazi-Berlin und 
 
 Erwähnte ich schon, daß ein früherer Deutschlehrer über mich sagte, ich hätte zu wenig Phantasie?
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/meiling.png
+ [1]: https://www.madcatswelt.org/images/meiling.png

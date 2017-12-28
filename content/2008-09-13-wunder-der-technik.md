@@ -14,5 +14,5 @@ Das ist eine österreichische Wetterstation. Der Stein am oberen Bildrand hängt
 
 Gefunden am [Baumkronenweg][2] in Kopfing.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/wetterstation.jpg
+ [1]: https://www.madcatswelt.org/images/wetterstation.jpg
  [2]: http://www.baumkronenweg.at/

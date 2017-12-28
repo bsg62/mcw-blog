@@ -12,5 +12,5 @@ dsq_thread_id:
 
 Gefunden im [Redaktions-Blog auf GameStar.de][2].
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/usa.jpg
+ [1]: https://www.madcatswelt.org/images/usa.jpg
  [2]: http://www.gamestar.de/aktuell/blog/

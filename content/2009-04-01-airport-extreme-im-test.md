@@ -38,4 +38,4 @@ Von den USB-Funktionalitäten konnte ich bisher nur mit einer Festplatten testen
 
 Was soll ich sagen? Es gibt effektiv nichts negatives, was ich über den Airport Extreme loswerden kann. Er ist zuverlässig, schnell, lässt sich einfach einrichten – selbst der Preis von 159 Euro ist angemessen (der WRT610N ist teurer). Apple macht es einem wirklich schwer ein Haar in der Suppe zu finden. Man könnte höchstens bemängeln, dass es kein Web-Interface (wobei das aus Sicherheitsgründen vielleicht sogar besser ist) gibt und für Profis einige Einstellungsmöglichkeiten fehlen bzw. keine alternativen Firmwares unterstützt werden.
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/airport_extreme_review_head.jpg "Airport Extreme Test"
+ [1]: https://www.madcatswelt.org/images/airport_extreme_review_head.jpg "Airport Extreme Test"

@@ -8,7 +8,7 @@ dsq_thread_id:
   - 467748877
 
 ---
-<img class="alignnone size-full wp-image-762" title="iPhone 4S" src="https://www.madcatswelt.org/wp-content/uploads/iphone_4s.png" alt="" srcset="https://www.madcatswelt.org/wp-content/uploads/iphone_4s.png 566w, https://www.madcatswelt.org/wp-content/uploads/iphone_4s-300x30.png 300w" sizes="(max-width: 566px) 100vw, 566px" />
+<img class="alignnone size-full wp-image-762" title="iPhone 4S" src="https://www.madcatswelt.org/images/iphone_4s.png" alt="" srcset="https://www.madcatswelt.org/images/iphone_4s.png 566w, https://www.madcatswelt.org/images/iphone_4s-300x30.png 300w" sizes="(max-width: 566px) 100vw, 566px" />
 
 Seit sechs Tagen darf man nun den ganzen Blödsinn über die angebliche Enttäuschung durch das iPhone 4S ertragen. Als vernunftbegabter Mensch, kann ich sowas nicht unkommentiert stehen lassen, weil ich sonst innerlich von der ganzen Idiotie wahnsinnig werde.
 

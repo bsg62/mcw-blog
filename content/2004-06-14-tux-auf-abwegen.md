@@ -12,4 +12,4 @@ Neu bei Walmart: das erste Open-Source-Waschpulver.
 
  ![Linux Vollwaschmittel][1]
 
- [1]: https://www.madcatswelt.org/wp-content/uploads/linux.jpg "Gefunden in einem Walmart-Prospekt"
+ [1]: https://www.madcatswelt.org/images/linux.jpg "Gefunden in einem Walmart-Prospekt"
