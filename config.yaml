@@ -1,4 +1,4 @@
-baseurl: "https://madcatswelt.org/"
+baseurl: "/"
 languageCode: "de-de"
 title: "madcats[welt]"
 metaDataFormat: "yaml"
