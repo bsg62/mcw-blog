@@ -7,5 +7,4 @@ permalinks:
   post: /:year/:month/:title/
 canonifyURLs: true
 enableRobotsTXT: true
-googleAnalytics: "UA-1711787-1"
 staticDir: ["static"]
